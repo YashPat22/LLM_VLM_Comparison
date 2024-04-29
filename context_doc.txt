@@ -18,6 +18,7 @@ Dimensions: 68.6mm x 53.4mm
 Weight: 25g
 Compatible with Arduino IDE
 Supported by a vast community with extensive resources, tutorials, and libraries
+
 LCD 1602 module (with pin header):
 Description:
 The LCD 1602 module is a compact and versatile display module equipped with a 16x2 character LCD screen and a pin header for easy connectivity. It features a backlight for improved visibility in various lighting conditions and can display alphanumeric characters, symbols, and custom messages. With its simple interface and clear display, it is widely used in electronics projects, educational purposes, and DIY applications.
@@ -34,6 +35,7 @@ Pin Header: Standard 16-pin header for easy connection to microcontrollers and d
 Contrast Adjustment: Potentiometer for adjusting display contrast
 Character Set: Standard HD44780-compatible character set
 Controller: Compatible with HD44780 controller for easy integration with microcontrollers and development platforms.
+
 RC522 RFID Module:
 Description:
 The RC522 RFID Module is a compact and versatile device designed for RFID (Radio Frequency Identification) applications. It utilizes the popular RC522 chip, providing reliable and efficient RFID communication capabilities. With its small form factor and easy-to-use interface, this module is suitable for a wide range of projects and applications.
@@ -49,6 +51,7 @@ Dimensions: 40mm x 60mm
 Integrated Antenna: Yes
 Operating Temperature: -20°C to 80°C
 Compatible Platforms: Arduino, Raspberry Pi, and other microcontroller platforms
+
 Prototype expansion module:
 Description:
 A prototype expansion module is a versatile hardware component designed to enhance the functionality and flexibility of electronic prototypes. It typically provides additional input/output interfaces, connectivity options, and expansion capabilities, allowing developers to easily integrate and test various sensors, actuators, and communication modules during the prototyping phase of product development.
@@ -63,6 +66,7 @@ Expansion Slots: These modules typically include multiple expansion slots or hea
 Power Supply: Most prototype expansion modules support various power input options, including USB, battery, and external power sources, to accommodate different prototyping scenarios and power requirements.
 Form Factor: The form factor of prototype expansion modules varies depending on the intended application and compatibility with specific development platforms. Common form factors include Arduino shields, Raspberry Pi HATs (Hardware Attached on Top), and standalone breakout boards.
 Documentation and Resources: Manufacturers often provide comprehensive documentation, tutorials, and example projects to assist developers in utilizing the features and capabilities of prototype expansion modules effectively. This helps streamline the prototyping process and encourages innovation and experimentation.
+
 ELEGOO Power supply module:
 Description:
 The ELEGOO Power Supply Module is a compact and efficient power source designed for electronic projects. It provides stable voltage output, ensuring reliable performance for various applications. With its compact size and versatile design, this module is suitable for both hobbyists and professionals alike.
@@ -78,6 +82,7 @@ Operating Temperature: -20°C to +85°C
 Dimensions: 50mm x 30mm x 15mm
 Features: Over-current protection, Over-voltage protection, Short-circuit protection
 Interface: Terminal blocks for input and output connections, LED indicator for power status
+
 HiLetgo GY-521 module:
 Description:
 The HiLetgo GY-521 module is a versatile sensor module designed for motion tracking and orientation sensing. It features a built-in accelerometer and gyroscope, along with a temperature sensor, all housed on a small breakout board. With its compact size and easy-to-use interface, it is widely used in various projects requiring precise motion detection and measurement.
@@ -94,6 +99,7 @@ Compatible with various microcontrollers such as Arduino, Raspberry Pi, and ESP8
 Onboard voltage regulator for stable operation
 Supports both 3-axis accelerometer and 3-axis gyroscope measurements
 Integrated Digital Motion Processor (DMP) for complex motion processing algorithms
+
 Servo Motor SG90:
 Description:
 The SG90 servo motor is a compact and lightweight device known for its precision and versatility in various robotic and electronic projects. It features a small form factor, making it suitable for applications where space is limited. The motor incorporates gears and a control circuit to precisely position the output shaft to a desired angle within a 180-degree range.
@@ -109,6 +115,7 @@ Weight: 9 grams
 Connector Type: JR/Futaba-style
 Gear Type: Plastic gears
 Control Interface: PWM (Pulse Width Modulation)
+
 Stepper Motor:
 Description:
 A stepper motor is an electromechanical device that converts electrical pulses into precise mechanical movements. Unlike traditional DC or AC motors, which rotate continuously when powered, stepper motors move in discrete steps, making them ideal for applications requiring precise positioning and control. Stepper motors consist of multiple coils arranged in a specific pattern around a central rotor. By energizing these coils in a specific sequence, the motor advances step by step, providing accurate control over rotation.
@@ -122,6 +129,7 @@ Current Rating: The amount of current required to achieve the rated torque and p
 Shaft Configuration: Stepper motors may feature different shaft configurations such as single or double shafts, allowing for various mounting and coupling options.
 Physical Dimensions: Size and form factor of the motor, including dimensions such as length, diameter, and mounting hole patterns.
 Drive Method: Stepper motors can be driven in different ways, including full-step, half-step, and microstepping, which affects their resolution and smoothness of operation.
+
 ULN 2003 Stepper Motor Driver Module:
 Description:
 The ULN2003 Stepper Motor Driver Module is an integrated circuit module designed to control bipolar stepper motors conveniently. It utilizes the ULN2003A Darlington array as its core component. This module provides an easy interface for controlling stepper motors, offering both simplicity and efficiency in motor control applications.
@@ -142,6 +150,7 @@ Control Interface: 4-phase, 5-wire interface (can be easily interfaced with micr
 Dimensions: Compact module size for easy integration into projects
 Protection Features: Built-in transient suppression diodes for protecting the module and connected components against voltage spikes
 Mounting Holes: Provided for easy installation and integration into projects
+
 USB A to Micro B:
 Description:
 The USB A to Micro B cable is a type of data transfer cable commonly used to connect devices with Micro B ports to standard USB Type-A ports. It typically features a Type-A connector on one end and a Micro B connector on the other. The Type-A connector is rectangular and commonly found on computers, laptops, and USB power adapters, while the Micro B connector is smaller and often used for smartphones, tablets, cameras, and other portable devices.
@@ -157,6 +166,7 @@ Data Transfer Speed: Supports USB 2.0 data transfer speeds of up to 480 Mbps.
 Charging: Supports charging currents up to 2.4A, depending on the power source and device compatibility.
 Cable Length: Available in various lengths, typically ranging from a few inches to several feet, to accommodate different connectivity needs.
 Construction: Typically features a durable and flexible cable with robust connectors for reliable performance and longevity.
+
 ESP Wroom 32:
 Description:
 The ESP Wroom 32 is a powerful and versatile microcontroller module developed by Espressif Systems. It is based on the ESP32 series of chips, which integrate Wi-Fi and Bluetooth capabilities, making it ideal for Internet of Things (IoT) applications. The module features a compact design and comes with various GPIO pins, allowing for easy integration into a wide range of projects.
@@ -173,6 +183,7 @@ Interfaces: UART, SPI, I2C, I2S, ADC, DAC
 Operating Voltage: 3.3 V
 Dimensions: 18 mm x 25.5 mm
 Operating Temperature: -40°C to 125°C
+
 HC-SR501 PIR motion sensor module:
 Description:
 The HC-SR501 PIR (Passive Infrared) motion sensor module is a compact electronic component designed to detect motion in its surrounding environment. It operates by sensing changes in infrared radiation emitted by nearby objects. When motion is detected, the sensor triggers an output signal, making it an ideal choice for motion detection applications.
@@ -188,6 +199,7 @@ Delay Time: Adjustable from 5 seconds to 300 seconds
 Output Signal: High (3.3V) when motion is detected, Low (0V) when no motion is detected
 Dimensions: 32mm x 24mm x 24mm
 Operating Temperature: -15°C to 70°C
+
 Sound Sensor Module:
 Description:
 A Sound Sensor Module, also known as a sound detector or sound sensor, is a compact electronic device designed to detect sound waves in its vicinity. It typically consists of a microphone, amplifier, and processing circuitry enclosed in a small module. The microphone captures sound waves, which are then amplified and processed to generate an output signal proportional to the detected sound intensity.
@@ -200,6 +212,7 @@ Output: Analog or digital output signal, depending on the module's design. Analo
 Frequency Response: The frequency range over which the module can effectively detect sound waves, typically covering audible frequencies from around 20 Hz to 20 kHz.
 Sensitivity: Adjustable or fixed sensitivity to detect sound levels above a certain threshold.
 Interface: Some modules may offer additional features such as adjustable sensitivity, onboard signal conditioning, and compatibility with microcontrollers or development boards via digital or analog interfaces like UART, I2C, or analog voltage output.
+
 Water Level Detection Sensor Module:
 Description:
 The Water Level Detection Sensor Module is a compact electronic device designed to accurately measure the level of water in various settings. Utilizing advanced sensor technology, it detects the presence or absence of water and provides real-time feedback to the connected system. With its simple yet efficient design, this module offers reliable performance and easy integration into a wide range of applications.
@@ -214,6 +227,7 @@ Material: Constructed with corrosion-resistant materials suitable for prolonged 
 Size: Compact and lightweight design for easy installation in various systems.
 Environmental Protection: Waterproof and dustproof casing ensures durability in harsh conditions.
 Operating Temperature: Capable of functioning within a specified temperature range for reliable performance in different climates.
+
 Ultrasonic Sensor:
 Description:
 An Ultrasonic Sensor is a device that emits high-frequency sound waves (ultrasound) and detects their reflection to measure distance or detect objects. It works on the principle of sound waves traveling through the air and bouncing off obstacles, with the sensor then calculating the time taken for the sound waves to return.
@@ -221,6 +235,7 @@ Applications:
 Ultrasonic Sensors find widespread applications in various fields, including robotics, automotive, healthcare, industrial automation, and home appliances. They are commonly used for proximity sensing, object detection, level measurement in tanks, distance measurement, and obstacle avoidance in autonomous systems like drones and robots.
 Technical Specification:
 Ultrasonic Sensors typically operate at frequencies between 20 kHz to 200 kHz. They have a range that can vary from a few centimeters to several meters, depending on the sensor's design and application requirements. These sensors usually consist of a transmitter, which emits ultrasonic pulses, and a receiver, which detects the reflected waves. They may also incorporate additional features such as adjustable sensitivity, digital or analog output, and waterproof or weather-resistant housing for outdoor use.
+
 ELEGOO DS1307 RTC Module:
 Description:
 The ELEGOO DS1307 RTC (Real-Time Clock) Module is a compact and precise timekeeping device designed for embedded systems and DIY electronics projects. It utilizes the DS1307 chip, a low-power real-time clock/calendar IC, to provide accurate timekeeping functionality to your projects. With its small form factor and simple interface, the DS1307 RTC Module is easy to integrate into various electronic setups, ensuring reliable timekeeping without the need for manual adjustments.
@@ -240,6 +255,7 @@ Battery backup: Retains timekeeping data during power loss using an onboard CR20
 Dimensions: Compact form factor for easy integration into electronic projects
 Integrated oscillator: Provides accurate timekeeping without the need for external components
 Addressable: Supports up to 8 DS1307 modules on a single I2C bus for multi-device setups
+
 Rotary Encoder Module:
 Description:
 A rotary encoder module is a sensing device used to convert rotary motion into digital signals. It typically consists of a rotating shaft, a disc with slots or markings, and sensors to detect the movement of the disc. As the shaft rotates, the sensors track the changes in position, generating pulses that correspond to the direction and magnitude of rotation. These pulses are then translated into digital signals for processing by microcontrollers or other electronic systems.
@@ -254,6 +270,7 @@ Shaft type and size: The design and dimensions of the shaft, which can be solid 
 Environmental ratings: Resistance to factors such as temperature, humidity, and vibration, ensuring reliable operation in different conditions.
 Mounting options: Compatibility with different mounting methods, such as through-hole or surface-mount configurations.
 Output interface: Compatibility with common communication protocols such as SPI, I2C, or parallel outputs, facilitating integration with microcontrollers and other devices.
+
 DHT11 temperature and humidity module:
 Description:
 The DHT11 temperature and humidity module is a sensor designed to measure both temperature and humidity levels in the surrounding environment. It consists of a capacitive humidity sensor and a thermistor for accurate readings. The module includes a small microcontroller that processes the sensor data and provides digital output through a single-wire interface, making it easy to integrate into various projects.
@@ -269,6 +286,7 @@ Dimensions: Compact size, typically around 15mm x 12mm
 Communication Protocol: Proprietary protocol for data transmission
 Power Consumption: Low power consumption, suitable for battery-powered applications
 Calibration: Factory calibrated for accurate readings out of the box
+
 IR Receiver module:
 Description:
 An IR (Infrared) Receiver module is a specialized component designed to detect infrared signals emitted from remote controls or other IR sources. These modules typically consist of an IR sensor, amplifier, and demodulator circuitry to extract the digital data encoded in the IR signal.
@@ -285,6 +303,7 @@ Output Signal: Typically a digital signal indicating the presence or absence of 
 Supply Voltage: Usually operates within a range of 3V to 5V DC.
 Interface: Output signals are often compatible with microcontrollers, making integration into electronic systems straightforward.
 Operating Temperature: Typically ranging from -20°C to 85°C, although specific modules may have narrower or broader temperature tolerances.
+
 Joystick Module:
 Description:
 A joystick module is a compact input device commonly used in electronics projects and gaming peripherals. It typically consists of a stick that can be moved in various directions and one or more buttons for additional input. The movement of the joystick is translated into electrical signals, which can be interpreted by a microcontroller or computer.
@@ -301,6 +320,7 @@ Digital Output: Some joystick modules also feature digital outputs for the built
 Interface: Joystick modules commonly interface with microcontrollers or computers via analog or digital input pins, making them compatible with a wide range of electronic systems.
 Operating Voltage: The operating voltage of a joystick module typically ranges from 3.3V to 5V DC.
 Dimensions: Joystick modules are typically compact and lightweight, with dimensions ranging from a few centimeters to a few inches, making them suitable for integration into various electronic devices and projects.
+
 ELEGOO Remote Control:
 Description:
 The ELEGOO Remote Control is a compact and versatile device designed to provide seamless control over a variety of electronic devices. Featuring a sleek and ergonomic design, it offers intuitive operation and reliable performance. With its wireless connectivity, users can effortlessly navigate through menus, adjust settings, and execute commands from a distance, enhancing convenience and efficiency in various applications.
@@ -314,6 +334,7 @@ Range: Offers a generous operating range, allowing users to control devices from
 Battery life: Long-lasting battery life ensures extended usage without frequent recharging or battery replacement.
 Compact size: Compact and portable design for easy storage and transportation.
 Programmable functions: Provides programmable buttons and customizable settings for tailored user experience and enhanced functionality.
+
 MAX7219 Module:
 Description:
 The MAX7219 module is a compact and versatile integrated circuit designed for driving up to 64 individual LEDs, or 8 seven-segment LED displays. It serves as a convenient interface between a microcontroller and LED displays, offering ease of use and efficient control. The module typically comes in a small form factor, making it suitable for various embedded systems and DIY electronics projects.
@@ -336,6 +357,7 @@ Adjustable display brightness control
 Cascadable design allows chaining multiple MAX7219 modules for larger display setups
 Low power consumption, typically operating from a single 5V supply
 Thermal shutdown and overload protection features ensure device reliability and safety in various operating conditions
+
 1 Digit 7-segment Display:
 Description:
 A 1 digit 7-segment display is a small electronic component that consists of seven individual LED segments arranged in a specific pattern to display numerical digits from 0 to 9. Each segment can be individually lit up to form various numbers and some alphabets. The segments are usually labeled as a, b, c, d, e, f, and g, and when lit in different combinations, they create the desired numeral or letter.
@@ -350,6 +372,7 @@ The display may require a current-limiting resistor to prevent damage to the LED
 Common pin configurations include 8-pin and 10-pin layouts, with additional pins for decimal point control or multiplexing in multi-digit displays.
 Operating voltage typically ranges from 5 to 12 volts, depending on the specific model and manufacturer.
 Some displays may come with built-in driver circuits to simplify interfacing with microcontrollers or other digital circuits.
+
 4 Digit 7-segment Display:
 Description:
 A 4-digit 7-segment display is an electronic component that consists of four individual 7-segment displays arranged in a single package. Each segment can display numeric characters (0-9) and some alphabetic characters (such as A-F) by illuminating specific segments within the display. These displays are commonly used in digital clocks, timers, counters, and other devices where numerical information needs to be visually presented.
@@ -366,6 +389,7 @@ Current Consumption: Depends on the size and brightness of the display segments,
 Dimensions: Vary depending on the manufacturer and specific model, but commonly available in compact packages suitable for integration into various electronic devices.
 Interface: Can be driven directly by microcontrollers or other digital circuitry using multiplexing techniques to control each digit and segment individually.
 Visibility: Brightness and viewing angle vary based on the type of LED technology used (e.g., traditional LED, surface-mounted LED), with options for high brightness or low power consumption depending on the application requirements.
+
 L293D:
 Description:
 The L293D is a popular integrated circuit (IC) used for driving small DC motors and bipolar stepper motors. It contains two H-bridge circuits, each capable of driving a single DC motor bidirectionally or a stepper motor. The H-bridge configuration allows the motor to be driven both clockwise and counterclockwise with control over speed and direction.
@@ -382,6 +406,7 @@ Logic Voltage: 3.3V to 5V
 Operating Temperature Range: -20°C to +125°C
 Package: 16-pin DIP (Dual In-line Package) or SOIC (Small Outline Integrated Circuit)
 Control Interface: TTL (Transistor-Transistor Logic) compatible inputs for controlling motor direction and speed.
+
 USA A to USB C:
 Description:
 USB A to USB C cables are designed to connect devices with different USB port types. The USB A connector is the traditional rectangular shape commonly found on computers and chargers, while the USB C connector is the newer, smaller, and reversible design used in many modern devices such as smartphones, tablets, laptops, and peripherals. These cables allow for charging, data transfer, and connectivity between devices with different USB interfaces.
@@ -389,6 +414,7 @@ Applications:
 USB A to USB C cables have a wide range of applications. They are commonly used for charging newer smartphones, tablets, and laptops that feature USB C ports. They also facilitate data transfer between USB C devices and older devices with USB A ports, such as connecting a USB C smartphone to a computer for file transfer or syncing. Additionally, these cables can be used to connect USB C peripherals, such as external hard drives or monitors, to devices with USB A ports.
 Technical Specification:
 USB A to USB C cables typically support USB 2.0, USB 3.0, or USB 3.1 standards, depending on their construction and the devices they are intended to connect. They may also support features like fast charging and high-speed data transfer rates, depending on the specifications of the connected devices and the cable itself. It's important to note that not all USB A to USB C cables are created equal, so it's essential to choose a cable that meets the requirements of your devices and applications.
+
 Active Buzzer:
 Description:
 An Active Buzzer is an electronic component designed to generate audible sound or beeps when an electrical signal is applied to it. It consists of a piezoelectric buzzer element encased in a housing with two pins for connection to an electrical circuit. Unlike passive buzzers, which require an external frequency to produce sound, active buzzers have an integrated oscillator circuit, making them self-driven and easier to use.
@@ -400,6 +426,7 @@ Sound Output: Produces a fixed frequency tone, usually in the range of 2kHz to 5
 Current Consumption: Generally low, ranging from a few milliamps to tens of milliamps, depending on the operating voltage and sound output level.
 Dimensions: Available in various sizes and shapes, with standard diameters ranging from 12mm to 30mm.
 Construction: Typically consists of a piezoelectric buzzer element, an integrated oscillator circuit, and a plastic or metal housing for protection and mounting.
+
 Passive Buzzer:
 Description:
 A Passive Buzzer is a simple electronic component that produces a buzzing or beeping sound when an electric signal is applied to it. Unlike an active buzzer, which generates its own sound, a passive buzzer requires an external signal source to produce sound. It consists of a piezoelectric element housed in a resonant cavity, which vibrates in response to an electrical signal, creating audible sound waves.
@@ -418,6 +445,7 @@ Construction: Usually compact and lightweight, with a cylindrical or disc-shaped
 Mounting: Can be easily mounted on a PCB or breadboard using through-hole or surface-mount soldering techniques.
 Operating Temperature: Can operate within a wide temperature range, typically from -20°C to +70°C, making it suitable for various environmental conditions.
 Lifespan: Generally has a long operational lifespan, with reliable performance over time when used within specified operating conditions.
+
 Potentiometer 10K:
 Description:
 A potentiometer 10K, short for "potentiometer 10 kilohms," is a type of variable resistor commonly used in electronic circuits. It consists of a resistive element usually made of carbon, cermet, or conductive plastic, with a movable contact called a wiper that can slide along the resistive element. By adjusting the position of the wiper, the resistance between the wiper terminal and the other two terminals of the potentiometer can be varied, thus controlling the flow of electric current through the circuit.
@@ -434,6 +462,7 @@ Power Rating: Potentiometers are rated for the maximum power they can dissipate 
 Mechanical Configuration: Potentiometers come in various mechanical configurations, including single-turn and multi-turn types, as well as linear and logarithmic taper variants.
 Mounting Style: They can be mounted on a circuit board (surface-mount or through-hole) or panel-mounted, depending on the application requirements.
 Environmental Considerations: Some potentiometers are designed to withstand harsh environmental conditions, such as high temperatures or moisture, making them suitable for use in industrial or outdoor settings.
+
 5V Relay:
 Description:
 A 5V relay is an electromechanical switch that operates with a control voltage of 5 volts. It consists of a coil, an armature, a spring, and one or more sets of contacts. When the coil is energized, it generates a magnetic field, causing the armature to move and making or breaking electrical connections between the contacts. This enables the relay to control high-power circuits with low-power signals.
@@ -451,6 +480,7 @@ Maximum Switching Voltage: Determines the maximum voltage the relay can handle.
 Maximum Switching Current: Specifies the maximum current the relay contacts can carry.
 Coil Resistance: The resistance of the coil, affecting the current required to energize the relay.
 Dimensions: Physical size and mounting options vary depending on the manufacturer and model.
+
 Fan Blade for 3-6V motor:
 Description:
 A fan blade designed for use with 3-6V motors, this component is crafted to efficiently circulate air in various applications. Its lightweight yet durable construction ensures optimal performance and longevity, making it an essential accessory for cooling systems in electronic devices and small-scale projects.
@@ -462,6 +492,7 @@ Blade Design: Engineered for efficient airflow with a balance of blade pitch and
 Material: Constructed from lightweight and durable materials such as plastic or composite, ensuring longevity and resistance to wear.
 Mounting: Compatible with standard motor shaft sizes for easy installation and compatibility with a wide range of motor configurations.
 Size: Available in various diameters to accommodate different space constraints and airflow requirements, providing versatility in application.
+
 3-6V motor:
 Description:
 A 3-6V motor refers to a direct current (DC) motor designed to operate within a voltage range of 3 to 6 volts. These motors typically come in various sizes and configurations, featuring a rotating shaft that converts electrical energy into mechanical motion. They are commonly used in a wide range of electronic devices and projects due to their versatility and ease of use.
@@ -477,6 +508,7 @@ Mounting: Available in various mounting options, including through-hole, surface
 Control: Can be operated with simple on/off switches or more sophisticated speed controllers for precise speed and direction control.
 Efficiency: Typically moderate, with brushless motors offering higher efficiency compared to brushed motors.
 Lifespan: Depending on usage and maintenance, these motors can last for thousands of hours of operation.
+
 Membrane Switch Module:
 Description:
 A Membrane Switch Module is a thin, low-profile electrical switch used for user interface applications. It consists of multiple layers of flexible materials, including a top graphic overlay, spacer layer, and bottom circuit layer. When pressure is applied to the overlay, it activates the switch by closing the circuit, allowing for tactile feedback and control.
@@ -489,6 +521,7 @@ Lifespan: Long-lasting, with millions of actuations possible.
 Customization: Graphic overlay can be tailored to include specific icons, text, and colors.
 Tactile Feedback: Depending on design, can offer tactile feedback through embossing or metal domes.
 Environmental Resistance: Resistant to moisture, chemicals, and UV exposure, making them suitable for harsh environments.
+
 830 Tie-Points Breadboard:
 Description:
 A 830 Tie-Points Breadboard is a solderless electronic testing device used for prototyping and experimenting with electronic circuits. It typically consists of a grid of interconnected holes or slots, allowing users to easily insert and connect electronic components without the need for soldering. The holes or slots are typically organized in rows and columns, providing a convenient layout for circuit design and assembly.
@@ -504,6 +537,7 @@ Compatibility: Compatible with a wide range of electronic components including r
 Durability: Designed for repeated use with components easily inserted and removed without damaging the breadboard.
 Mounting: Often equipped with adhesive backing for easy mounting on a flat surface.
 Color: Typically white or translucent, allowing for clear visibility of component placements and connections.
+
 9V battery:
 Description:
 A 9V battery is a small, rectangular-shaped power source commonly used in various electronic devices. It typically consists of six cylindrical cells connected in series within a compact housing. The battery is known for its convenient size and shape, making it suitable for portable applications where space is limited.
@@ -516,6 +550,7 @@ Capacity: Varies depending on the chemistry and manufacturer, but typically rang
 Size: The standard 9V battery measures approximately 48.5mm x 26.5mm x 17.5mm (L x W x H).
 Terminal Type: Most 9V batteries feature snap-style terminals for easy connection to compatible devices.
 Shelf Life: Generally, 9V batteries have a shelf life of several years when stored properly in a cool, dry place.
+
 Snap on Connector Clip for 9V battery:
 Description:
 The Snap-on Connector Clip for 9V battery is a simple yet essential component designed to securely connect a 9V battery to various electronic devices or circuits. This clip features a durable plastic housing with metal contacts that snap onto the terminals of a standard 9V battery, ensuring a reliable electrical connection.
@@ -528,6 +563,7 @@ Connection Type: Snap-on terminals for easy attachment and removal
 Dimensions: Compact and lightweight design for versatile usage
 Current Rating: Typically rated to handle currents up to a few amperes, suitable for low-power applications
 Durability: Constructed from high-quality materials to ensure long-lasting performance in various environments
+
 9V 1A adapter:
 Description:
 The 9V 1A adapter is a power supply device designed to convert AC (alternating current) power from a standard electrical outlet into DC (direct current) power suitable for electronic devices. It typically features a compact design with a plug for easy connection to the wall outlet and a cable terminating in a connector compatible with the device it powers.
@@ -543,6 +579,7 @@ Output Current: 1 ampere (A), supplying sufficient current to power devices with
 Connector: The adapter is equipped with a connector suitable for the device it powers, commonly featuring barrel-type connectors or USB ports.
 Safety Features: It may include protection features like overvoltage protection, overcurrent protection, and short-circuit protection to ensure the safety of both the adapter and the connected device.
 Efficiency: Designed to be energy-efficient, minimizing power loss during the conversion process and reducing energy consumption.
+
 Breadboard Jumper Wire:
 Description:
 Breadboard jumper wires are flexible cables used in electronics prototyping to create temporary connections on breadboards. These wires typically consist of a thin, flexible insulated wire with connectors at each end, often in the form of male pins or sockets. They come in various lengths and colors, allowing for easy organization and identification during circuit assembly.
@@ -555,6 +592,7 @@ Connectors: Features standard male connectors (pins) on one end and female conne
 Insulation: Insulated with PVC (Polyvinyl Chloride) or similar materials to protect against short circuits and ensure safety during handling.
 Colors: Often available in multiple colors (e.g., red, black, blue, green) for easy organization and identification of connections within the circuit.
 Compatibility: Compatible with standard breadboards with 0.1-inch spacing between the pins, allowing for versatile use in various prototyping projects.
+
 Female to male Dupont Wire:
 Description:
 Female to male Dupont wire is a type of electrical cable consisting of a female Dupont connector at one end and a male Dupont connector at the other. These connectors are commonly used in electronics and prototyping projects for making connections between various components on a breadboard or circuit board. The wires are typically flexible and color-coded for easy identification and organization.
@@ -567,14 +605,17 @@ Length: Available in various lengths, typically ranging from a few inches to sev
 Color Coding: Each wire is often color-coded for easy identification of connections
 Connector Material: Connectors are typically made of plastic, while the contacts may be made of metal for conductivity
 Compatibility: Compatible with standard Dupont-style connectors commonly found in electronics and prototyping components.
+
 USB B to USB A Cable:
 Description: A USB B to USB A cable is a peripheral cable designed to connect devices with different USB port types. It typically features a USB Type B connector on one end and a USB Type A connector on the other. The USB Type B connector is typically square-shaped with beveled edges, while the USB Type A connector is rectangular. These cables are commonly used to connect devices like printers, scanners, and external hard drives to computers or other host devices.
 Applications: USB B to USB A cables are widely used in various applications, particularly in office and home environments. They are commonly used to connect printers and scanners to computers, allowing for seamless printing and scanning operations. Additionally, these cables are used to connect external hard drives, audio interfaces, and other peripheral devices to computers, enabling data transfer and device functionality.
 Technical Specification: USB B to USB A cables come in various lengths to accommodate different setups and distances between devices. They support USB 2.0 and USB 3.0 standards, providing high-speed data transfer rates of up to 480 Mbps (USB 2.0) or 5 Gbps (USB 3.0). The cables are constructed with quality materials to ensure durability and reliable connectivity. Additionally, they feature shielded construction to minimize interference and ensure signal integrity during data transmission.
+
 Resistor:
 Description: A resistor is a fundamental electrical component that opposes the flow of electrical current. It's typically a small, cylindrical component made of conductive material, such as carbon or metal, with wire leads attached to each end. The resistor's resistance is measured in ohms (Ω), indicating how much it impedes the flow of current. Resistors come in various types, including fixed resistors with a predetermined resistance value and variable resistors (potentiometers or rheostats) whose resistance can be adjusted manually.
 Applications: Resistors are used in countless electronic circuits for various purposes. They are commonly employed to limit current, divide voltages, adjust signal levels, terminate transmission lines, and provide biasing in amplifiers and other electronic devices. They are essential in voltage dividers, filter circuits, voltage regulators, and signal conditioning circuits. Additionally, resistors find applications in sensors, heaters, power supplies, and lighting systems.
 Technical Specifications: Resistors are specified by their resistance value, tolerance, power rating, and temperature coefficient. The resistance value indicates how much the resistor impedes the current flow, measured in ohms (Ω). Tolerance refers to the maximum allowable deviation from the specified resistance value, typically expressed as a percentage. Power rating denotes the maximum amount of power the resistor can dissipate without damage, usually in watts (W). Lastly, the temperature coefficient indicates how the resistance changes with temperature variation, crucial for stability in different operating conditions.
+
 Thermistor:
 Description:
 A thermistor is a type of resistor whose resistance changes significantly with temperature. The word "thermistor" is a combination of "thermal" and "resistor." Unlike standard resistors, which have a constant resistance, thermistors are designed to be sensitive to temperature changes. They are made from semiconductor materials, typically metal oxides, and are available in two types: negative temperature coefficient (NTC) thermistors, where resistance decreases with increasing temperature, and positive temperature coefficient (PTC) thermistors, where resistance increases with increasing temperature.
@@ -593,6 +634,7 @@ Operating Temperature Range: The range of temperatures over which the thermistor
 Accuracy: The deviation from the true temperature value, expressed as a percentage or in degrees Celsius.
 Time Constant: The time required for the thermistor to respond to a temperature change, typically measured in seconds.
 Power Rating: The maximum power the thermistor can dissipate without damage, often specified in watts (W).
+
 Diode Rectifier:
 Description:
 A diode rectifier is a semiconductor device designed to convert alternating current (AC) into direct current (DC) by allowing current to flow in one direction only. It consists of a p-n junction, typically made of silicon or germanium, which permits current flow when the voltage across it is positive in one direction (forward biased) and blocks current flow when the voltage is negative (reverse biased). This unidirectional conductive property makes diode rectifiers essential components in various electronic circuits and power supplies.
@@ -610,6 +652,7 @@ Maximum forward current: The maximum continuous forward current the diode can ha
 Reverse recovery time: The time required for the diode to switch from the conducting to the non-conducting state when the voltage polarity reverses.
 Power dissipation: The maximum power the diode can dissipate without overheating.
 Operating temperature range: The range of temperatures within which the diode can operate reliably.
+
 100μF electrolytic capacitor:
 Description:
 A 100μF electrolytic capacitor is an electronic component designed to store and release electrical energy in circuits. It consists of two conductive plates separated by an electrolyte, typically a liquid or gel. One plate is coated with an oxide layer, which serves as the dielectric. This construction allows the capacitor to achieve a high capacitance value in a relatively small physical size.
@@ -621,6 +664,7 @@ Voltage Rating: Typically ranges from 10V to 100V
 Capacitance Tolerance: Generally around ±20%
 Temperature Range: Typically -40°C to +105°C
 Polarity: Electrolytic capacitors are polarized, meaning they must be connected in the correct orientation to avoid damage. The negative terminal is usually marked on the capacitor casing.
+
 NPN transistor PN2222:
 Description:
 The NPN transistor PN2222 is a popular bipolar junction transistor (BJT) commonly used in electronic circuits. It consists of three semiconductor layers: a thin layer of N-type semiconductor material sandwiched between two layers of P-type semiconductor material. The PN2222 is housed in a small plastic package with three leads, allowing it to be easily integrated into various circuit designs.
@@ -636,6 +680,7 @@ Transition Frequency (ft): 250MHz (typical)
 Current Gain (hFE): 100 to 300 (typical)
 Package Type: TO-92 (Plastic-Encapsulate Transistor)
 Operating Temperature Range: -55°C to +150°C
+
 Tilt Ball Switch:
 Description:
 A tilt ball switch, also known as a tilt sensor or tilt switch, is a small device that detects the orientation or tilt of an object. It consists of a conductive metal ball inside a tube or housing with electrical contacts at each end. When the device is tilted beyond a certain angle, the ball rolls, making contact with the conductive pathways and completing an electrical circuit.
@@ -648,6 +693,7 @@ Operating Temperature: Varies depending on the specific design, but typically ra
 Housing Material: Often made of durable plastics or metals to withstand various environmental conditions.
 Response Time: Generally fast, with the switch activating or deactivating within milliseconds of reaching the tilt angle threshold.
 Mounting Options: Available in various form factors for easy integration into different devices or systems, including through-hole, surface mount, and wire lead configurations.
+
 Button for IoT kit:
 Description:
 The Button for IoT kit is a compact and versatile device designed to seamlessly integrate into Internet of Things (IoT) projects. It provides a simple yet powerful interface for users to trigger actions or events remotely with just a press of a button. With its wireless connectivity and durable design, it offers convenience and reliability for various IoT applications.
@@ -661,6 +707,7 @@ Compatibility: Compatible with various IoT platforms and frameworks for quick de
 Durability: Robust construction suitable for indoor and outdoor use, ensuring longevity in diverse environments.
 Size and Form Factor: Compact and lightweight design for easy mounting or carrying.
 Customization: Configurable settings for different actions or events triggered by button presses, allowing for tailored functionality to specific needs.
+
 RGB LED:
 Description:
 An RGB LED, or Red-Green-Blue Light Emitting Diode, is a semiconductor light source that emits light in three primary colors: red, green, and blue. Unlike traditional LEDs that emit a single color, RGB LEDs contain three separate LED chips within a single package, each capable of producing one of the primary colors. By varying the intensity of each color component, RGB LEDs can produce a wide range of colors, making them versatile for various applications.
@@ -679,6 +726,7 @@ Power Rating: The maximum power that the RGB LED can handle without damage, usua
 Common Cathode or Common Anode: RGB LEDs may have either a common cathode (shared negative terminal) or a common anode (shared positive terminal), which affects their wiring configuration.
 Control Interface: RGB LEDs can be controlled using various methods, including analog voltage control, pulse-width modulation (PWM), or digital protocols such as SPI (Serial Peripheral Interface) or I2C (Inter-Integrated Circuit).
 Package Type: RGB LEDs are available in various package types, including through-hole, surface-mount, and integrated modules, to suit different mounting and assembly requirements.
+
 104 pF ceramic capacitor:
 Description:
 A 104 pF ceramic capacitor is a compact electronic component designed to store and release electrical energy in circuits. Its name, "104 pF," signifies its capacitance value, where "104" represents the first two digits (10) and the third digit (4) indicates the number of zeros to follow, yielding a capacitance of 10000 picofarads (pF). These capacitors typically have a small, cylindrical shape with two metal leads extending from the bottom.
@@ -692,6 +740,7 @@ Dielectric Material: Ceramic
 Temperature Coefficient: Often specified in parts per million per degree Celsius (ppm/°C), indicating how the capacitance changes with temperature
 Operating Temperature Range: Typically -55°C to +125°C, although this can vary depending on the specific capacitor model and manufacturer
 Package Type: Typically radial leaded or surface mount, with various dimensions and lead spacings available to suit different circuit layouts and assembly methods.
+
 Photoresistor (photocell):
 Description:
 A photoresistor, also known as a photocell or light-dependent resistor (LDR), is a type of resistor whose resistance varies with the intensity of light falling on it. It is made of a semiconductor material, typically cadmium sulfide (CdS) or cadmium selenide (CdSe), whose conductivity increases when exposed to light and decreases in darkness. Photoresistors are passive components and do not require any power source to operate.

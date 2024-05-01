@@ -1,0 +1,11 @@
+Method,ChatGPT,Gemini,c4 AI Command R+
+LLM-Zero Shot,8.3,8.1,8.2
+LLM-One Shot,8.2,8.1,8.4
+LLM-Two Shot,8.6,8.2,8.8
+LLM-Four Shot,9,8.2,9
+LLM-RAG,8.4,9,9
+LLM-Fine Tune,8.4,8.4,9
+VLM-No Object Detector,5.6,3.8,7.4
+VLM-Zero Shot,8.2,7.6,8.3
+VLM-One Shot,8,7.6,8.9
+VLM-Fine Tune,8,8.8,8.8

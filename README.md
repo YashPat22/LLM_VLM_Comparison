@@ -93,26 +93,11 @@ To use
 
 ## Results
 
-### Diffusion Model
-The diagram below shows the overall diffusion pipeline.
-![Diffusion Model Pipeline](diffusion.png)
+### Evaluation Method 1
 
-To visualize different experiments, we fixed the result of the txt2img diffsion model as shown below: 
-![Canny Edge Features](DiffusionImages/txt2img_grid.png)
 
-Based on the generated txt2img image, we ran different experiments with guidance scale and inference steps.
-All the result images can be found in: [Diffusion Images](DiffusionImages/)
+### Evaluation Method 2
 
-### Large Language Model
-![Language Model Pipeline](LanguageModel.png)
-Before the Large Language Model is used, a test is done to check how the untrained Lanugage Model performs against the fine-tuned chat model.
-
-The prompts given to both the models are the same, which is: "Generate a story about how a dog learns it has superpowers [INST]Generate a 2 panel comic[/INST]"
-
-We notice how the chat model performs much better in this context which enabled us to zero shot prompt it for generating stories.
-The prompts are also iteratively developed for the second stage of the process - creation of diffusion prompts which can be found in Language_Model/Dog_Story.ipynb
-
-The results can be seen in [Language Model Iteration](Language_Model/Dog_Story.ipynb):
 
 ## Contributions
 Our contributions include:

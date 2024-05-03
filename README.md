@@ -1,17 +1,18 @@
-# LLM_VLM_Comparison
+# Object Detection and Description using Vision Language Models and Large Language Models (Object Detection, Open Source LLMs and VLMs)
 This repository is created for the project done for 10623 - Generative AI course offered at CMU (Spring 2024).
+
+This repository contains the code for a novel approach of detecting and generating responses from a LLM and VLM for components from an IoT kit. We create multiple public datasets and deploy Object Detectors, Mistral-7B and LlaVa-7B to achieve this goal.
+
+
+Permission(s)/License Required:
+Access to Mistral through HuggingFace (https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
+Access to LlaVa through HuggingFace (https://huggingface.co/liuhaotian/llava-v1.5-7b)
 
 ## To setup dependencies:
 Install all the requirements using requirements.txt or manually install all packages from requirements.txt
 
-# Few-Shot Fine-Tuning for Diffusion-Based Comic Generation (Text to Image | Large Language Model + Diffusion)
-This repository is created for the project done for 16824 - Visual Learning and Recognition course offered at Carnegie Mellon University (Fall 2023).
-
-This repository contains the code for a novel approach to generating comics by employing machine learning techniques. The project focuses on transforming text prompts into visually expressive comic illustrations, utilizing stable diffusion models for coherence in visual storytelling.
 
 
-Permission(s)/License Required:
-Access to LlaMa-2 (https://github.com/facebookresearch/codellama)
 
 
 ## Table of Contents

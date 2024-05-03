@@ -40,7 +40,8 @@ Explore our results to see a series of comic panels with a consistent art style,
 
 For a detailed explanation of the methodology, refer to the Methodology section in the Report.
 
-![Ovr_Approach](Overall Approach.png)
+<img width="895" alt="Overall Approach" src="https://github.com/YashPat22/LLM_VLM_Comparison/assets/111828697/0bc757fa-7631-4800-90e3-66b291160f5b">
+
 
 ## Getting Started
 

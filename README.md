@@ -11,10 +11,6 @@ Access to LlaVa through HuggingFace (https://huggingface.co/liuhaotian/llava-v1.
 ## To setup dependencies:
 Install all the requirements using requirements.txt or manually install all packages from requirements.txt
 
-
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)

@@ -48,10 +48,10 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YashPat22/16824_VLR_ComicGen
+git clone https://github.com/YashPat22/LLM_VLM_Comparison
 ```
 2. Install required dependencies:
-[Requirements](requirements.txt)
+[text](requirements.txt)
 ```bash
 conda install --file requirements.txt
 ```

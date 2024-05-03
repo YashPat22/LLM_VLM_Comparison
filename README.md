@@ -44,7 +44,7 @@ The pipeline involves a text-to-image-to-image structure, utilizing large langua
 
 For a detailed explanation of the methodology, refer to the Methodology section in the Report.
 
-![Ovr_Approach](ReadMe/Screenshot 2024-05-03 at 12.52.50 AM.png)
+![Ovr_Approach](Overall Approach.png)
 
 ## Getting Started
 

@@ -93,9 +93,12 @@ The dataset created for this task are shown as below:
 
 ## Usage
 
-To generate details about an object using the provided pipeline, modify object in the prompt on any of the notebooks mentioned and generate the response.
+To replicate these results, use the Kaggle image dataset as mentioned above and train/fine-tune your object detector to detect your images for this task. Use the class output as text and feed it into the prompts into the notebooks according to the tree mentioned above.
+Few pointers:
 
-To use 
+1. Inference and RAG pipeline can be run on a T4 GPU with 4 bit quantization.
+2. For fine-tuning LLM and VLM, we recommend using A100 GPU with atleast 2 hours of training compute.
+3. Make sure you have access to HuggingFace models in case you choose a gated model, for example, LlaMa-2 or LlaMa-3.
 
 ## Results
 We assess the effectiveness of various methods using established large language models (LLMs) such as ChatGPT, Gemini, and c4 AI command R+.

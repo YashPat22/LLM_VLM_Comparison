@@ -3,3 +3,4 @@ This repository is created for the project done for 10623 - Generative AI course
 
 ## To setup dependencies:
 Install all the requirements using requirements.txt or manually install all packages from requirements.txt
+

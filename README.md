@@ -11,6 +11,30 @@ Access to LlaVa through HuggingFace (https://huggingface.co/liuhaotian/llava-v1.
 ## To setup dependencies:
 Install all the requirements using requirements.txt or manually install all packages from requirements.txt
 
+## File Structure
+```
+📦 LLM-VLM-Comparison
+├─ Evaluation
+    └─ Evaluation of LLM and VLM approaches
+├─ LLM Fine Tuned
+    └─ Training and Responses of Mistral
+└─ LLM In Context
+    └─ In-Context learning notebooks of Mistral
+└─ LLM RAG
+    └─ RAG Pipeline with Mistral, Langchain and FAISS
+└─ LLM Zero Shot
+    └─ Baseline Zero shot implementation of Mistral
+└─ Object Detector
+   └─ Inference from Roboflow API 
+└─ VLM Fine Tuned
+    └─ Training and Responses of Llava
+└─ VLM Zero Shot
+    └─ Baseline Zero shot implementation of Llava
+└─ Requirements.txt
+└─ README.md
+└─ Overall Approach.png
+```
+
 ## Table of Contents
 
 - [Introduction](#introduction)
